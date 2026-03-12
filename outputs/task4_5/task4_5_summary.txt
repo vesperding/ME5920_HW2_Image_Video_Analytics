@@ -1,0 +1,8 @@
+Task 4-Task 5 Summary
+=====================
+Video path: /content/ME5920_HW2_Image_Video_Analytics/data/football_video.mp4
+Number of frames used: 300
+FPS: 23.976023976023978
+Task 4 top motion frame indices (original frame indices): [31, 30, 32, 33, 29, 34, 28, 35, 26, 41]
+Task 5 low-rank k used: 173
+Task 5 top sparse frame indices: [265, 258, 272, 274, 261, 243, 271, 262, 263, 270]
